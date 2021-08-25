@@ -27,4 +27,4 @@ Important concept covered and implemented:
 
 <h1>Live Website</h1>
 
-http://nellos.com.do/u/.com.do/u/
+http://nellos.com.do/u/
